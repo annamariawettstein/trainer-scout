@@ -1,0 +1,44 @@
+[
+  {
+    "rank": 1,
+    "trainer_name": "hayden.scott@org2.example.com",
+    "n_responses": 8,
+    "improvement_score": 0.667,
+    "mean_early_score": 8.88,
+    "mean_late_score": 9.54,
+    "quotes": [
+      {
+        "row_id": "R0001",
+        "quote": "Finding out about keyboard shortcuts was fun! And the bigger picture context (e.g. the 4 steps to clean data ready to analyse) were really interesting.",
+        "source": "3.13_Could you please share a highlight from the training? What stood out to you as particularly enjoyable or beneficial?*"
+      },
+      {
+        "row_id": "R0007",
+        "quote": "Informal and fun, making everyone feel comfortable to ask questions and not feel stupid",
+        "source": "3.12_What did you like most about their training style?*"
+      }
+    ],
+    "case_study_angle": "Showed strong improvement in training effectiveness and learner engagement"
+  },
+  {
+    "rank": 2,
+    "trainer_name": "sam.parker@org2.example.com",
+    "n_responses": 5,
+    "improvement_score": 0.583,
+    "mean_early_score": 7.58,
+    "mean_late_score": 8.17,
+    "quotes": [
+      {
+        "row_id": "R0032",
+        "quote": "They were positive and helpful whenever I got stuck.",
+        "source": "3.12_What did you like most about their training style?*"
+      },
+      {
+        "row_id": "R0028",
+        "quote": "They made it fun and relatable",
+        "source": "3.12_What did you like most about their training style?*"
+      }
+    ],
+    "case_study_angle": "Showed strong improvement in training effectiveness and learner engagement"
+  }
+]
