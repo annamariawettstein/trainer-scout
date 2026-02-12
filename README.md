@@ -17,7 +17,6 @@ be:impact/
 │   ├── results.csv        # Spreadsheet-friendly format
 │   ├── results.html       # Professional HTML report
 │   └── outreach_ready.json # Email templates
-├── assets/                 # Images and other assets
 └── README.md              # This file
 ```
 
